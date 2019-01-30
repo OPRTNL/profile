@@ -135,3 +135,31 @@ table {
   margin: 6px auto;
   width: auto;
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #972D07;
+  text-align: center;
+  font-size: 45px;
+  padding-top: 50px;
+}
+
+#sidebar > a {
+  text-align: center;
+  font-size: 40px;
+  padding-top: 50px;
+  color: #333333
+}
+
+#sidebar > a:hover {
+  color:#000000;
+
+}
+
+#page-content {
+  margin-left: 100px;
+}
