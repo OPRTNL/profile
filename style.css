@@ -75,10 +75,10 @@ p {
 
 
 .profile_rounded {
-  border-radius: 25%;
+  border-radius: 50%;
   object-fit: cover;
-  width:110px;
-  height:105px;
+  width:220px;
+  height:210px;
   border:solid;
   border-width: 5px;
   border-color: #972D07;
